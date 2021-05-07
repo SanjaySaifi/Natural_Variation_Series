@@ -1,3 +1,5 @@
+// Explore output here: https://ucanwhatsappme.users.earthengine.app/view/supervised-classify-gzb-by-sanjay
+
 // Add trainning data and shapefile
 var water = 
     /* color: #0000ff */
