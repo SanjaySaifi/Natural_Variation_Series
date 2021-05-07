@@ -1,4 +1,4 @@
-Explore OUTPUT: https://ucanwhatsappme.users.earthengine.app/view/sliderclassify-by-sanjay-saifi
+//Explore OUTPUT: https://ucanwhatsappme.users.earthengine.app/view/sliderclassify-by-sanjay-saifi
 //Add training data and roi
 var water = /* color: #0000ff */ee.FeatureCollection(
         [ee.Feature(
